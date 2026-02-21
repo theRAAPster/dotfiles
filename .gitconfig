@@ -5,4 +5,4 @@
   email = theraapster@gmail.com
 [core]
   editor = vim
-  excludesfile = ~/.gitignore
+  excludesfile = ~/.gitignoredefault
