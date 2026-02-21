@@ -1,0 +1,8 @@
+[init]
+  defaultBranch = main
+[user]
+  name = Jason Raap
+  email = theraapster@gmail.com
+[core]
+  editor = vim
+  excludesfile = ~/.gitignore
